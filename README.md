@@ -1,6 +1,6 @@
 # Hello, everyone! 👋 
 
-I'm excited to introduce myself as a 5th-semester Informatics student from Ahmad Dahlan University, actively expanding my horizons and expertise in the dynamic field of technology. My academic journey has been a rich experience, filled with valuable insights and practical knowledge. I'm eager to embrace new challenges and opportunities, continuously developing my skills and contributing to the dynamic world of IT.
+I'm excited to introduce myself as a 7th-semester Informatics student from Ahmad Dahlan University, actively expanding my horizons and expertise in the dynamic field of technology. My academic journey has been a rich experience, filled with valuable insights and practical knowledge. I'm eager to embrace new challenges and opportunities, continuously developing my skills and contributing to the dynamic world of IT.
 
 Currently, I'm actively engaged in the Mobile Development track at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=mobile-development), a renowned program that equips students with the skills to create innovative mobile applications. This hands-on experience has given me a comprehensive understanding of the Android development process, from ideation and design to implementation and deployment. I'm passionate about exploring the intersection of technology and human interaction.
 
